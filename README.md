@@ -37,7 +37,6 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 </br>
 
-<div style="display: flex; align-items: center;">
   <a href="http://www.progeorn.com.br/">
     <img height="52" width="258" alt="Progeo" align="left" src="http://www.progeorn.com.br/images/logo_branco.png"/>
   </a>
@@ -47,7 +46,6 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
     [**PROGEO**](http://www.progeorn.com.br/) • Meio Período \
     Linguagens & Tecnologias: `PHP`, `Mysql`, `Symfony`, `JavaScript`
   </span>
-</div>
 
 <br>
 
