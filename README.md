@@ -38,7 +38,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 </br>
 
   <a href="http://www.progeorn.com.br/">
-    <img height="52" width="258" alt="Progeo" align="left" src="http://www.progeorn.com.br/images/logo_branco.png"/>
+    <img height="52" width="258" alt="Progeo" align="left" src="./assets/logo_branco.png"/>
   </a>
 
   <span> <!-- GO HORSE -->
