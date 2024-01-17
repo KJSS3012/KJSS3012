@@ -31,6 +31,26 @@
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
+## Experiência de trabalho
+
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente: 
+
+</br>
+
+<div style="display: flex; align-items: center;">
+  <a href="http://www.progeorn.com.br/">
+    <img height="52" width="258" alt="Progeo" align="left" src="http://www.progeorn.com.br/images/logo_branco.png"/>
+  </a>
+
+  <span> <!-- GO HORSE -->
+    <strong>Programador(Jovem Aprendiz)</strong> \
+    [**PROGEO**](http://www.progeorn.com.br/) • Meio Período \
+    Linguagens & Tecnologias: `PHP`, `Mysql`, `Symfony`, `JavaScript`
+  </span>
+</div>
+
+<br>
+
 ### 📊 GitHub Analytics 
 
 <table>
