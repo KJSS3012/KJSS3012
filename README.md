@@ -16,6 +16,11 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 
+### 🏗️ Frameworks:
+
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel&logoColor=FF2D20)
+
 ### 🛢️ Banco de Dados
 
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
