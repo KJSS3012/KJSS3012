@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
-
 ## 👨‍💻 Kaique Santos 
 
 <p align="left"> 
@@ -11,24 +9,32 @@
 ### 💻 Desenvolvimento 
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
 
-### 🏗️ Frameworks:
+### 🏗️ Frameworks e Bibliotecas
 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel&logoColor=FF2D20)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css&logoColor=38B2AC)
 
 ### 🛢️ Banco de Dados
 
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248)
+![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite&logoColor=003B57)
 
 ### ⚙️ DevOps 
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED)
 
 ### 🛠️ Ferramentas de Desenvolvimento 
 
@@ -36,25 +42,21 @@
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
-## Experiência de trabalho
+## 🧑‍💼 Experiência de trabalho
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente: 
 
-</br>
+### PROGEO
+**Programador (Jovem Aprendiz)**  
+**Período:** Meio Período  
+**Linguagens & Tecnologias:** `PHP`, `MySQL`, `Symfony`, `JavaScript`
 
-  <a href="http://www.progeorn.com.br/">
-    <img height="52" width="258" alt="Progeo" align="left" src="./assets/logo_branco.png"/>
-  </a>
+### GOLDPAY
+**Desenvolvedor Front-End**  
+**Período:** 3 meses  
+**Linguagens & Tecnologias:** `PHP`, `MariaDB`, `Figma`, `JavaScript`, `CSS`
 
-  <span> <!-- GO HORSE -->
-    <strong>Programador(Jovem Aprendiz)</strong> \
-    [**PROGEO**](http://www.progeorn.com.br/) • Meio Período \
-    Linguagens & Tecnologias: `PHP`, `Mysql`, `Symfony`, `JavaScript`
-  </span>
-
-<br>
-
-### 📊 GitHub Analytics 
+## 📊 GitHub Analytics 
 
 <table>
   <tr>
@@ -73,7 +75,6 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
       />
     </td>
     <td>
-      <br />
       <img
         align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=KJSS3012&theme=dark&hide_border=false"
