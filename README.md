@@ -1,9 +1,8 @@
 ## 👨‍💻 Kaique Santos 
 
 <p align="left"> 
-  Meu nome é Kaique, sou Técnico em Informática para Internet pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte e atualmente estou cursando Ciência da Computação na Universidade Federal de Campina Grande (UFCG).
+  Meu nome é Kaique, sou Técnico em Informática para Internet pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte e atualmente estou cursando Bacharelado em Ciência da Computação na Universidade Federal de Campina Grande (UFCG).
 </p>
-
 
 ## 🚀 Minhas Skills 
 
@@ -20,6 +19,7 @@
 ### 🏗️ Frameworks e Bibliotecas
 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E0234E)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel&logoColor=FF2D20)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
@@ -28,6 +28,7 @@
 ### 🛢️ Banco de Dados
 
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=336791)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248)
 ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite&logoColor=003B57)
 
