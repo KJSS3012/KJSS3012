@@ -1,8 +1,9 @@
 ## 👨‍💻 Kaique Santos 
 
 <p align="left"> 
-  Meu nome é Kaique, sou Técnico em Informática para Internet pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte.
+  Meu nome é Kaique, sou Técnico em Informática para Internet pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte e atualmente estou cursando Ciência da Computação na Universidade Federal de Campina Grande (UFCG).
 </p>
+
 
 ## 🚀 Minhas Skills 
 
